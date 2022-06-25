@@ -1,1 +1,1 @@
-# GUI-PY
+# Simple UI
