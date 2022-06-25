@@ -1,0 +1,5 @@
+setup.py
+Simple_UIs.egg-info/PKG-INFO
+Simple_UIs.egg-info/SOURCES.txt
+Simple_UIs.egg-info/dependency_links.txt
+Simple_UIs.egg-info/top_level.txt
